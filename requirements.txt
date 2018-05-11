@@ -4,4 +4,3 @@ flask_script
 flask_bootstrap
 flask_moment
 wtforms
-wtforms.validators
